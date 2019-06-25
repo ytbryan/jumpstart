@@ -1,24 +1,14 @@
-# README
+# Vue on Rails Jumpstart Repo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+You can try out Vue on Rails by cloning this repo
 
-Things you may want to cover:
+```
+git clone http://github.com/ytbryan/jumpstart
+```
 
-* Ruby version
 
-* System dependencies
+Or you can use our Application Template to set this repo with project-name (app) and database control (-d postgresql). 
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```
+rails new app -m https://vueonrails.com/vue -d postgresql
+```
